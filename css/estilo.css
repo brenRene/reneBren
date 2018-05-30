@@ -111,13 +111,14 @@ h4{
 	height: auto;
 	margin: 5px;
 }
-#scrollUp{ 
+#scrollUp{
 	bottom:20px;
 	right:20px;
 	padding:10px 20px;
-	background:#555;
-	color:#FFF;
+	bacground:#555;
+	color:#fff;
 }
+
  .pie{ 
 
 height: auto; 
