@@ -95,6 +95,9 @@ article{
 	height: auto;
 	float:left;
 	margin-right: 12px;
+        margin-bottom:10%;
+	padding-bottom:10%;
+	padding-top:10%;
 }
 
 
@@ -125,8 +128,6 @@ h4{
 }
 
  .pie{ 
-
-height: auto; 
 max-width: 100%;
 }
 
