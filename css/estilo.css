@@ -88,6 +88,7 @@ article{
 	height: auto;
 	margin:12px;
 }
+
 .imgss{
 	max-width: 150px;
 	width: 100%;
@@ -102,7 +103,8 @@ article{
 	font-family: Roboto-Medium;
 }
 figure{
-	margin-bottom: 100px;
+	margin-bottom: 500px;
+	
 }
 h4{
 	font-family: Roboto-Medium;
