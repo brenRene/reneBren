@@ -119,9 +119,9 @@ h4{
 #scrollUp{
 	bottom:20px;
 	right:20px;
-	padding:10px 20px;
-	bacground:#555;
-	color:#fff;
+	width:48px;
+	height:48px;
+	background-image: url(../img/up.png);
 }
 
  .pie{ 
